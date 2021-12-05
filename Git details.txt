@@ -1,0 +1,5 @@
+git init           ................................................folderi local repository kimi seçir
+
+git status         ................................................folder deyisiklik statusunu gosterir
+
+git add            ................................................folderdeki deyisiklikleri taniyir
